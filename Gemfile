@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gemspec
 
 # for demo site
-# gem "jekyll-paginate"
+gem "jekyll-paginate"
 
 gem 'jekyll', '~> 4.3', '>= 4.3.2'
 gem 'jekyll-feed', '~> 0.17.0'
