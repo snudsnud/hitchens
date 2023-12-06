@@ -5,7 +5,7 @@ gemspec
 
 # for demo site
 gem "jekyll-paginate"
-
+gem install jekyll
 gem 'jekyll', '~> 4.3', '>= 4.3.2'
 gem 'jekyll-feed', '~> 0.17.0'
 gem 'jekyll-gist', '~> 1.5'
