@@ -1,10 +1,10 @@
 ---
 layout: post
 title: ARTWORKS
-permalink: /works/
+permalink: works
 ---
 
-![beyondrealms0](assets/images/pojing0.jpg)
+![beyondrealms0]({% link assets/images/pojing0.jpg %})
 <!-- ![beyondrealms1](assets/images/pojing.png) -->
 ***破境 [pò jìng] // beyond realms. (2023)*** <br /><br />
 
@@ -16,7 +16,7 @@ permalink: /works/
 
 Debuted in 2023 at the Australasian Computer Music Conference 2023 & ElectroMUSE Concert Series. 
 
-![dialoguesinspace](assets/images/dialoguesinspace.jpg)
+![dialoguesinspace]({% link assets/images/dialoguesinspace.jpg %})
 
 ***Dialogues in Space (A response to the big wide realm of nothingness in the sky) (2022)***<br /><br />
 
