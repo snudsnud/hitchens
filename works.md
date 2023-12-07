@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ARTWORKS
+permalink: /works/
 ---
 
 ![beyondrealms0](assets/images/pojing0.jpg)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BIO
+permalink: bio
 ---
 
 Sandy Ma (she/her) is a multidisciplinary artist and educator with a background in creative computing. <br /><br />
@@ -11,4 +12,4 @@ As an educator, Sandy is also eager to create inclusive interdisciplinary learni
 
 Sandy is currently living and working on unceded Ngunnawal/Ngambri Country. 
 
-![sandy](assets/images/sandy.jpg)
+![sandy]({% link assets/images/sandy.jpg %})
