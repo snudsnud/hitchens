@@ -6,7 +6,7 @@ permalink: works
 
 ![beyondrealms0]({% link assets/images/pojing0.jpg %})
 <!-- ![beyondrealms1](assets/images/pojing.png) -->
-***破境 [pò jìng] // beyond realms. (2023)*** <br /><br />
+***破境 [pò jìng] // beyond realms. (2023 - )*** <br /><br />
 
 *Augmented reality synthesiser, physical synthesiser*<br /><br />
 
