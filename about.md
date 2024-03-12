@@ -10,6 +10,6 @@ In her practice, Sandy explores the intersections of computing, electronics, and
 
 As an educator, Sandy is eager to create inclusive interdisciplinary learning spaces to bring art literacy to audiences beyond art makers and thinkers. Sandy currently works as an artist educator at the National Gallery of Australia and tutors creative computing for the ANU School of Computing. <br /><br />
 
-Sandy is currently living and working on unceded Ngunnawal/Ngambri Country. 
+Sandy is currently living and working on unceded Ngunnawal/Ngunawal/Ngambri Country. 
 
 ![sandy]({% link assets/images/sandy.jpg %})
