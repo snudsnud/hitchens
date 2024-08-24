@@ -1,6 +1,6 @@
 .site-navigation {
-  margin-top: 2rem;
-  padding: 0 1rem;
+  margin-top: 1rem;
+  padding: 0 0rem;
   &:hover,
   &:focus-within {
     a {
@@ -28,7 +28,7 @@
 
 .site-navigation a {
   display: block;
-  padding: .25em .5em;
+  padding: .125em .25em;
   text-decoration: none;
   transition: opacity .125s ease-in-out;
   &:hover,
