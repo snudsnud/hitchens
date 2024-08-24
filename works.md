@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ARTWORKS
+title: SELECTED WORKS
 permalink: works
 ---
 
