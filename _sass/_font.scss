@@ -5,5 +5,5 @@
   font-weight: 400;
   font-display: auto;
   src: local('Josefin Sans Italic'), local('JosefinSans-Italic'),
-       url('#{$asset_url}/fonts/JosefinSans-VariableFont_wght.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/JosefinSans-VariableFont_wght.ttf') format('truetype'), /* Safari, Android, iOS */
 }
